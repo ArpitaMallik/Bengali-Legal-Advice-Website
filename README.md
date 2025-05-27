@@ -3,7 +3,7 @@ To run the project locally, follow these steps:
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git](https://github.com/ArpitaMallik/Bengali-Legal-Advice-Website.git
+   git clone https://github.com/ArpitaMallik/Bengali-Legal-Advice-Website.git
    cd your-repo-name
 
 2. **Install dependencies**
