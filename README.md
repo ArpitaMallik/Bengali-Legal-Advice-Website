@@ -4,7 +4,7 @@ To run the project locally, follow these steps:
 
    ```bash
    git clone https://github.com/ArpitaMallik/Bengali-Legal-Advice-Website.git
-   cd your-repo-name
+
 
 2. **Install dependencies**
 
